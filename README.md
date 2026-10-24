@@ -1,6 +1,5 @@
 - 👋 Hi, I’m canoon@canoon-gmail
 - 👀 I’m interested in oop design and java  
-- 💞️ I’m looking to collaborate on java
 - 😄 Pronouns: ca noon
 - ⚡ Fun fact: nothing real
 
