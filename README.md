@@ -1,5 +1,5 @@
 - 👋 Hi, I’m canoon@canoon-gmail
-- 👀 I’m interested in oop design and java  
+- 👀 I’m interested in UI design and AI
 - 😄 Pronouns: ca noon
 
 <!---
