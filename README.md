@@ -1,7 +1,6 @@
 - 👋 Hi, I’m canoon@canoon-gmail
 - 👀 I’m interested in oop design and java  
 - 😄 Pronouns: ca noon
-- ⚡ Fun fact: nothing real
 
 <!---
 canoon-gmail/canoon-gmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
